@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* Instalación
+* [Instalación](instalacion.md)
 * El modelo
 * La primera UI
 * [Conclusiones](conclusiones.md)
