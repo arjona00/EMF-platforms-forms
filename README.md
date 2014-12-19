@@ -6,9 +6,9 @@ La descripción de la UI es interpretada por el motor de renderizado que permite
 
 Algunas de las principales características de EMF Forms son:
 
-CRUD de UIs basados en formularios
-Diseña tus propias UIs
-Características para crear IUs profesionales
-Personalizable y extensible
-Previsualización
-Convenciones sobre la configuración
+* CRUD de UIs basados en formularios
+* Diseña tus propias UIs
+* Características para crear IUs profesionales
+* Personalizable y extensible
+* Previsualización
+* Convenciones sobre la configuración
