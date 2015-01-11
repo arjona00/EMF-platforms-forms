@@ -39,8 +39,6 @@ Una vez rellenos los campos, botón derecho sobre el modelo seleccionamos la opc
 Ya tenemos nuestro modelo creado.
 
 
-S
-
 
 
 
