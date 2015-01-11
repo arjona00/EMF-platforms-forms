@@ -42,6 +42,8 @@ Generamos un modelo de generación de código a partir de nuestro modelo.
 
 ![](http://i.imgur.com/tWs0wL1.jpg)
 
+![](http://i.imgur.com/i6Lh0Ll.jpg)
+
 Ahora pasaremos a desarrollar la interfaz del usuario.
 
 
