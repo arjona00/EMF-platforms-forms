@@ -3,11 +3,14 @@
 En esta sección, comenzamos a usar EMF Forms para generar nuestro primer formulario básico de ejemplo.
 
 
-## Cargando el modelo de ejemplo
+## Cargando el modelo
 
-Para este tutorial, usaremos el modelo de ejemplo llamado "Make it happen". Modela un sencillo sistema de gestión de tareas e incluye las entidades "User", "UserGroup" y "Task". Sobre la ventana de proyectos pulsamos botón derecho "New -> Example"
+Para ello usaremos el modelo creado anteriormente junto con el editor generado de forma automática por el generador de código.
 
-![Figura 1 -Mi primera UI](http://i.imgur.com/7JSnmZt.png)
+Sobre nuestro fichero ecore, pulsamos botón derecho y seleccionamos EMF Forms -> Create View Project
+
+![Figura 1 -Mi primera UI](http://i.imgur.com/Fbb8pPs.jpg)
+
 
 Selecciona "Make it happen: example model". En la siguiente ventana muestra los proyectos que serán importados a su ventana de trabajo. Estos son, el modelo y el bundle de edición.
 
