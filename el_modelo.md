@@ -15,7 +15,7 @@ Diseñaremos el metamodelo usando el editor visual Ecore Diagram. Sobre la carpe
 
 Diseñamos nuestro metamodelo basado en Ecore. En este caso tratamos de modelar una distribución de señales recogidas por sensores.
 
-![](http://i.imgur.com/yKrKf2E.png)
+![](http://i.imgur.com/pqp0ztG.jpg)
 
 Para ello creamos la clase "LoboRojo" que dará nombre a nuestro esquema y del que colgarán los demás elementos. 
 
