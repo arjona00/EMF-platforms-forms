@@ -38,6 +38,13 @@ Una vez rellenos los campos, botón derecho sobre el modelo seleccionamos la opc
 
 Ya tenemos nuestro modelo creado.
 
+Generamos un modelo de generación de código a partir de nuestro modelo.
+
+![](http://i.imgur.com/tWs0wL1.jpg)
+
+Ahora pasaremos a desarrollar la interfaz del usuario.
+
+
 
 
 
