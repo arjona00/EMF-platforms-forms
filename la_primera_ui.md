@@ -1,6 +1,6 @@
 # La primera UI
 
-En esta sección, recorreremos EMF Forms para generar nuestro primer formulario de ejemplo.
+En esta sección, comenzamos a usar EMF Forms para generar nuestro primer formulario básico de ejemplo.
 
 
 ## Cargando el modelo de ejemplo
