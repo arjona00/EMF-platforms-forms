@@ -33,8 +33,32 @@ Rellenamos las propiedades.
 
 Una vez rellenos los campos, botón derecho sobre el modelo seleccionamos la opción Validate.
 
+
 ![](http://i.imgur.com/PdpAi6e.jpg) 
 
-
-
 Ya tenemos nuestro modelo creado.
+
+
+S
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
