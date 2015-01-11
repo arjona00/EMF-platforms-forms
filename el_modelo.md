@@ -17,6 +17,6 @@ Diseñamos nuestro metamodelo basado en Ecore. En este caso tratamos de modelar 
 
 ![](http://i.imgur.com/yKrKf2E.png)
 
-Para ello creamos la clase "LoboRojjo" que dará nombre a nuestro esquema y del que colgarán los demás elementos. 
+Para ello creamos la clase "LoboRojo" que dará nombre a nuestro esquema y del que colgarán los demás elementos. 
 
 Creamos la clase sensor
