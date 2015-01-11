@@ -3,34 +3,23 @@
 En esta sección, comenzamos a usar EMF Forms para generar nuestro primer formulario básico de ejemplo.
 
 
-## Cargando el modelo
-
-Para ello usaremos el modelo creado anteriormente junto con el editor generado de forma automática por el generador de código.
-
-Sobre nuestro fichero ecore, pulsamos botón derecho y seleccionamos EMF Forms -> Create View Project
-
-![Figura 1 -Mi primera UI](http://i.imgur.com/Fbb8pPs.jpg)
-
-
-Selecciona "Make it happen: example model". En la siguiente ventana muestra los proyectos que serán importados a su ventana de trabajo. Estos son, el modelo y el bundle de edición.
-
-![Figura 2 -Mi primera UI](http://i.imgur.com/QVAnve7.png)
-
-
 ## Creando la vista del modelo
 
 La vista del modelo describe la UI como un formulario de un tipo de entidad. EMF Forms proporciona un asistente para generar nuevas vistas del modelo a partir de un fichero de modelo Ecore (.ecore).
 
-Para arrancar el asistente, hacemos click derecho sobre el fichero "task.ecore" del modelo, "New -> EMF Forms -> Create View Model Project".
+Para ello usaremos el modelo creado anteriormente junto con el editor generado de forma automática por el generador de código.
 
-![Figura 3 -Mi primera UI](http://i.imgur.com/M1mdlhJ.png)
+Sobre nuestro fichero ecore, pulsamos botón derecho y seleccionamos EMF Forms -> Create View Project.
 
-El asistente mostrará el formulario donde introduciremos el nombre de nuestro proyecto para la vista del modelo.
+Rellenamos el nombre del nuevo proyecto, y posteriormente, la UI inicial. En este caso, Sensor.
 
-![Figura 4 -Mi primera UI](http://i.imgur.com/DA5YjKL.png)
+![Figura 1 -Mi primera UI](http://i.imgur.com/UGf4OOA.jpg)
 
-En la siguiente ventana del asistente, muestra las entidades de nuestro modelo. Seleccione la entidad "User" y pulse siguiente.
+Una vez acabado el proceso, ya tenemos nuestra primera UI básica generada.
 
-Una vez finalizado, podremos ver el proyecto generado que contiene las vistas del modelo, y la vista generada "User.view".
+Sobre el nuevo proyecto '.viewmodel', abrimos la carpeta 'viewmodels' y hacemos doble click sobre el fichero 'Sensor.view'.
 
-## El Editor de la vista del modelo
+Veremos una lista de los campos de nuestro formulario. Para activar la vista previa, hacemos click sobre el botón 'Open Preview' en la esquina superior derecha de nuestra vista del editor.
+
+![Figura 2 -Mi primera UI](http://i.imgur.com/RDphS3D.jpg)
+
