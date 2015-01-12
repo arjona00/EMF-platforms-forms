@@ -23,6 +23,8 @@ Creamos la clase Sensor y sus propiedades. La clase sensor estará compuesto de 
 
 La clase Señal tendrá unas propiedades básicas y se especializa en los tres tipos antes nombrados.
 
+Recordar establecer los límites Lower Bound a 1 para indicar que el campo será obligatorio.
+
 Una vez realizado el diagrama, lo guardamos.
 
 Vamos al fichero ecore y hacemos click sobre el modelo.
