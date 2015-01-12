@@ -62,17 +62,17 @@ Aplicamos, y ejecutamos.
 
 Una vez abierta la aplicación, creamos un nuevo proyecto en la ventana del explorador del modelo.
 
-![](http://i.imgur.com/L2k6EHv.jpg)
+![Figura 8 - Mi primera UI](http://i.imgur.com/L2k6EHv.jpg)
 
-![](http://i.imgur.com/muT6szM.jpg)
+![Figura 9 - Mi primera UI](http://i.imgur.com/muT6szM.jpg)
 
 Ahora podremos crear nuevos elementos de nuestro modelo.
 
-![](http://i.imgur.com/tQFSJVz.jpg)
+![Figura 10 - Mi primera UI](http://i.imgur.com/tQFSJVz.jpg)
 
 Vemos la distribución de los elementos del formulario tal como lo dispusimos en la edición de la vista.
 
-![](http://i.imgur.com/sxvXSj1.jpg)
+![Figura 11 - Mi primera UI](http://i.imgur.com/sxvXSj1.jpg)
 
 
 
