@@ -23,7 +23,10 @@ Veremos una lista de los campos de nuestro formulario. Para activar la vista pre
 
 ![Figura 2 - Mi primera UI](http://i.imgur.com/RDphS3D.jpg)
 
-Podremos editar los campos del formulario, agruparlos, establecer restricciones, eliminarlos, etc., pero esto lo veremos en la siguiente sección. Ahora pasaremos a probar el funcionamiento de nuestro nuevo formulario.
+Podremos editar los campos del formulario, agruparlos, eliminarlos, crear recuadros desplegables, mostrar u ocultar elementos bajo ciertas condiciones, etc., pero esto sobrepasa los límites de este tutorial. 
+Más información en [Personalización de controles de una vista](http://eclipsesource.com/blogs/tutorials/emf-forms-view-model-elements/).
+
+Ahora pasaremos a probar el funcionamiento de nuestro nuevo formulario.
 
 ![Figura 3 - Mi primera UI](http://i.imgur.com/fRwo0KG.jpg)
 
@@ -77,7 +80,7 @@ Vemos la distribución de los elementos del formulario tal como lo dispusimos en
 ![Figura 11 - Mi primera UI](http://i.imgur.com/sxvXSj1.jpg)
 
 
-Además, podemos guardar los objetos creados en un repositorio local o remoto, así como cargar elementos pre-existentes.
+Además, podemos guardar los objetos creados en un repositorio local o remoto, o cargar elementos pre-existentes.
 
 Primero debemos iniciar el servidor local por defecto, o crear uno nuevo.
 
