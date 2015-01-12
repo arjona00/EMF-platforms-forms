@@ -70,7 +70,9 @@ Ahora podremos crear nuevos elementos de nuestro modelo.
 
 ![Figura 10 - Mi primera UI](http://i.imgur.com/tQFSJVz.jpg)
 
-Vemos la distribución de los elementos del formulario tal como lo dispusimos en la edición de la vista.
+Vemos la distribución de los elementos del formulario tal como lo dispusimos en la edición de la vista, así como los campos obligatorios.
+
+![](http://i.imgur.com/RXUQZcf.jpg)
 
 ![Figura 11 - Mi primera UI](http://i.imgur.com/sxvXSj1.jpg)
 
