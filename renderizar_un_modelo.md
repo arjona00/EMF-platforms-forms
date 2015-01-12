@@ -42,6 +42,5 @@ Una vez establecida la plataforma de destino de ejecución, click derecho sobre 
 
 ## Otros renderizadores
 
-- [JavaFX](http://eclipsesource.com/blogs/tutorials/emf-forms-renderer/#javafx)
-- [SWT](http://eclipsesource.com/blogs/tutorials/getting-started-with-EMF-Forms/#swt)
+- [JavaFX, SWT, AngularJS, Android, Vaadin](http://eclipsesource.com/blogs/tutorials/emf-forms-renderer)
 
