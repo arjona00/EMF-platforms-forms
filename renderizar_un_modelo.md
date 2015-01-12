@@ -39,6 +39,11 @@ Abrimos el fichero 'makeithappen_RAP.target', y esperamos hasta que se resuelvan
 
 Una vez establecida la plataforma de destino de ejecución, click derecho sobre el fichero '.launch', y seleccionamos la opción 'Run as' -> 'RAP Application'. Esto nos abrirá la aplicación en un navegador (Puede ser necesario recargar el navegador si este muestra un error inicial).
 
+![](http://i.imgur.com/hTPnk1D.jpg)
+
+También podremos abrirlo en el navegador.
+
+![](http://i.imgur.com/S9yFAXy.jpg)
 
 ## Otros renderizadores
 
