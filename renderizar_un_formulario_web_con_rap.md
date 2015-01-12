@@ -15,3 +15,4 @@ Desplegamos el menú Help -> Install new software, e instalamos de la siguiente 
     Nota: Solo instalar RAP Tools, NO Target Components.
 
     
+## Otros renderizadores
