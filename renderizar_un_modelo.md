@@ -29,7 +29,19 @@ Desplegamos el menú Help -> Install new software, e instalamos de la siguiente 
 
 Consultar en el siguiente [link](https://www.eclipse.org/rap/downloads/) para consultar las últimas versiones disponibles.
 
+Para nuestra demostración, importamos el modelo de ejemplo proporcionado por RAP.
 
-
+    New -> Examples -> EMF Forms -> Make it happen: sample RAP application -> Next -> Finish.
     
+Abrimos el fichero 'makeithappen_RAP.target', y esperamos hasta que se resuelvan las dependencias. Esto puede tardar unos minutos. Una vez resueltas, hacemos click en la parte superior derecha 'Set as target platform'.
+
+![](http://i.imgur.com/HTN6xIT.jpg)
+
+Una vez establecida la plataforma de destino de ejecución, click derecho sobre el fichero '.launch', y seleccionamos la opción 'Run as' -> 'RAP Application'. Esto nos abrirá la aplicación en un navegador (Puede ser necesario recargar el navegador si este muestra un error inicial).
+
+
 ## Otros renderizadores
+
+- [JavaFX](http://eclipsesource.com/blogs/tutorials/emf-forms-renderer/#javafx)
+- [SWT](http://eclipsesource.com/blogs/tutorials/getting-started-with-EMF-Forms/#swt)
+
