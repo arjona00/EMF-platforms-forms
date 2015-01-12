@@ -75,8 +75,39 @@ Vemos la distribución de los elementos del formulario tal como lo dispusimos en
 ![Figura 11 - Mi primera UI](http://i.imgur.com/sxvXSj1.jpg)
 
 
+Además, podemos guardar los objetos creados en un repositorio local o remoto, así como cargar elementos pre-existentes.
 
+Primero debemos iniciar el servidor local por defecto, o crear uno nuevo.
 
+Para iniciar el servidor local, click derecho sobre Local EMFStore -> Start Local Server.
+
+![Figura 12 - Mi primera UI](http://i.imgur.com/Oep3LiQ.jpg)
+
+Una vez iniciado, podemos compartir los elementos creados y guardarlos en el repositorio.
+
+![Figura 13 - Mi primera UI](http://i.imgur.com/cFZD9Pu.jpg)
+
+![Figura 14 - Mi primera UI](http://i.imgur.com/IEGGxoZ.jpg)
+
+Cada operación realizada sobre nuestra aplicación se registrará en el repositorio una vez comiteado.
+
+![Figura 15 - Mi primera UI](http://i.imgur.com/G9gCbcY.jpg)
+
+![Figura 16 - Mi primera UI](http://i.imgur.com/rxqTqlA.jpg)
+
+Para cargar un repositorio existente, iniciamos y accedemos el servidor.
+
+Los datos de acceso usuario por defecto del repositorio local son 
+   ```
+   Usuario: 'super' 
+   Contraseña: 'super'
+   
+   ```
+![Figura 17 - Mi primera UI](http://i.imgur.com/YFJ9wro.jpg)
+
+Una vez logados, realizamos un checkout en el servidor para crear un nuevo proyecto con los datos almacenados.
+
+![Figura 18 - Mi primera UI](http://i.imgur.com/ayYB8zi.jpg)
 
 
 
