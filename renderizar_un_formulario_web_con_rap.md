@@ -14,5 +14,6 @@ Desplegamos el menú Help -> Install new software, e instalamos de la siguiente 
 
     Nota: Solo instalar RAP Tools, NO Target Components.
 
+Consultar en el siguiente [link](https://www.eclipse.org/rap/downloads/) para consultar las últimas versiones disponibles.
     
 ## Otros renderizadores
