@@ -1,4 +1,4 @@
-# La primera UI
+# Mi primera interfaz de usuario
 
 En esta sección, comenzamos a usar EMF Forms para generar nuestro primer formulario básico de ejemplo.
 
