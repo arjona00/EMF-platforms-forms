@@ -15,8 +15,59 @@ Diseñaremos el metamodelo usando el editor visual Ecore Diagram. Sobre la carpe
 
 Diseñamos nuestro metamodelo basado en Ecore. En este caso tratamos de modelar una distribución de señales recogidas por sensores.
 
-![](http://i.imgur.com/yKrKf2E.png)
+![](http://i.imgur.com/pqp0ztG.jpg)
 
-Para ello creamos la clase "LoboRojo" que dará nombre a nuestro esquema y del que colgarán los demás elementos. 
+Para ello creamos la clase "LoboRojo" que dará nombre a nuestro esquema y agrupará los demás elementos. 
 
-Creamos la clase sensor
+Creamos la clase Sensor y sus propiedades. La clase sensor estará compuesto de una serie de señales recogidas, que serán de tipo Sonido, Vital o Imagen, por lo que creamos un enumerado para cada uno de estos tipos.
+
+La clase Señal tendrá unas propiedades básicas y se especializa en los tres tipos antes nombrados.
+
+Recordar establecer los límites Lower Bound a 1 para indicar que el campo será obligatorio.
+
+Una vez realizado el diagrama, lo guardamos.
+
+Vamos al fichero ecore y hacemos click sobre el modelo.
+Rellenamos las propiedades.
+
+
+![](http://i.imgur.com/WJKWrkN.jpg) 
+
+Una vez rellenos los campos, botón derecho sobre el modelo seleccionamos la opción Validate.
+
+
+![](http://i.imgur.com/PdpAi6e.jpg) 
+
+Ya tenemos nuestro modelo creado.
+
+Generamos un modelo de generación de código a partir de nuestro modelo.
+
+![](http://i.imgur.com/tWs0wL1.jpg)
+
+![](http://i.imgur.com/i6Lh0Ll.jpg)
+
+Ahora pasaremos a desarrollar la interfaz del usuario.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
