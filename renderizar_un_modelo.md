@@ -7,11 +7,11 @@ Para integrar una UI dentro de una aplicación, los renderizadores de EMF Forms 
 En general, la API incluye tres parámetros:
 
 - La instancia del modelo de nuestro dominio.
-- La vista del modelo
+- La vista del modelo.
 - El enlace al objeto UI, especifica de cada renderizador.
 
 
-## Renderizar una vista del model en web con RAP
+## Renderizar una vista del modelo en web con RAP
 
 RAP o Remote Application Platform, es una tecnología para el desarrollo de aplicaciones remotas. En nuestro caso, generaremos una aplicación web. También permite desarrollar una aplicación web y de escritorio, que actuarán sobre el mismo código fuente, sin necesidad de desarrollar ambas por separado.
 
